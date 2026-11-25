@@ -1,10 +1,12 @@
 # Wilde Happen
 
-Ein Browserspiel: Wirf Futter, locke Tiere an, füll dein Gehege und werde an der Klimmzugstange stark genug für neue Zonen.
+Ein 3D-Browserspiel: Wirf Futter, locke Tiere an, füll dein Gehege und werde an der Klimmzugstange stark genug für neue Zonen.
 
 ## Spielen
 
 `index.html` im Browser öffnen. Das Spiel ist eine einzige Datei und braucht keine Installation. Es läuft am Computer und am Handy.
+
+Für die 3D-Grafik lädt die Seite beim Start die Bibliothek three.js aus dem Internet, deshalb braucht sie eine Internetverbindung. Läuft das Spiel auf einem Gerät zu langsam, schaltet es von selbst auf eine einfachere Grafik um.
 
 ## So geht's
 
@@ -25,6 +27,7 @@ Ein Browserspiel: Wirf Futter, locke Tiere an, füll dein Gehege und werde an de
 | Futter wählen | Tasten 1 bis 9 | Leiste unten |
 | Shop, Gehege, Tierbuch | B, G, T | Knöpfe oben rechts |
 | Nach Hause | H | Haus-Knopf |
+| Kamera näher oder weiter | Mausrad | – |
 
 ## Zonen
 
